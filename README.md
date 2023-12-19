@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liujinf
-- 👀 I’m interested in cloud native, integration and low code
+- 👀 I’m interested in data management, cloud native, integration and low code
 - 📫 email: 189801316@qq.com
 
 <!---
